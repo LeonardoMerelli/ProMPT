@@ -10,7 +10,7 @@ This repository was developed as part of the course **01HZROV — Crafting Tech:
 
 ## Repository Structure
 
-### 📄 `Feasibility Study/`
+### 📄 `Feasibility Study`
 Contains the feasibility study for the ProMPT tool. This includes:
 
 - **Macro-level market analysis**
@@ -19,12 +19,12 @@ Contains the feasibility study for the ProMPT tool. This includes:
 
 ---
 
-### 📄 `RAI Guidelines Test/`
+### 📄 `RAI Guidelines Test`
 This folder documents the testing process for responsible AI design using RAI (Responsible AI) guidelines. It evaluates how ProMPT aligns with principles for ethical and accountable AI development.
 
 ---
 
-### 📄 `War Taxonomy/`
+### 📂 `War Taxonomy/`
 Includes Python notebooks and resources used to develop the **conflict and problem database**, a key component of the prompt-generation process. This taxonomy defines post-conflict scenarios and key challenges that ProMPT addresses.
 
 ---
