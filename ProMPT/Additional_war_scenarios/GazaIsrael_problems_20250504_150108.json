@@ -1,0 +1,32 @@
+{
+    "regions": [
+        "Gaza",
+        "Israel"
+    ],
+    "actors": [
+        "UN",
+        "Anera",
+        "Hamas"
+    ],
+    "problem": "refugees",
+    "description": "Recently, the UN's World Food Programme and Unrwa, the UN agency for Palestinian refugees, said they had used up all their stocks of food aid.",
+    "timeline": "Unknown",
+    "conflict_type": "border war",
+    "link": "https://www.bbc.com/news/articles/cx2vz02e7g8o"
+}
+{
+    "regions": [
+        "Gaza",
+        "Israel"
+    ],
+    "actors": [
+        "UN",
+        "Anera",
+        "Hamas"
+    ],
+    "problem": "malnutrition",
+    "description": "Many are painfully thin, with new warnings of acute malnutrition in Gaza - especially among the young.",
+    "timeline": "Unknown",
+    "conflict_type": "border war",
+    "link": "https://www.bbc.com/news/articles/cx2vz02e7g8o"
+}

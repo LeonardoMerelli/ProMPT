@@ -1,0 +1,37 @@
+Use,Risks,Possible Mitigations
+Facial Recognition,Privacy violations,Strict data governance
+,Misidentification,Independent oversight
+,Misuse by authorities,Use only in humanitarian contexts
+Speech Recognition & Voice Synthesis,Eavesdropping & Profiling: private conversations intercepted for surveillance or intimidation,End-to-end encryption and strong authentication for voice channels
+,Deep-voice Spoofing: fake voices generated to misinform or extort,Digital watermarking and cryptographic signing of synthesized voice to verify origin
+,Critical Dependence: failures in emergency communications,Redundant communication paths and manual fallback procedures
+Natural Language Processing (NLP),Automated Propaganda: mass-produced misinformation,Content-authenticity filters and AI-generated text detection
+,Sentiment Manipulation: profiling survivors to sway opinions,Algorithmic transparency and independent model audits
+,Privacy Violations: large-scale extraction of sensitive data from texts,Data-minimization policies and human oversight
+Computer Vision (Object Detection & Segmentation),Mis-targeting: misclassifying civilians or infrastructure as threats,Human-in-the-loop validation before any critical action
+,Invasive Surveillance: drones/cameras monitoring civilian movements,Legal/geographic restrictions on camera and drone use in civilian zones
+,Model Bias: ethnic or gender discrimination in reconstruction efforts,Diverse datasets and continuous bias-mitigation processes
+Autonomous Vehicles,Route Failures: damaged roads or missing signs post-conflict,"Up-to-date post-war maps and redundant sensors (LiDAR, radar)"
+,Military Exploitation: weaponized autonomous drones,International norms separating civilian vs. military use
+,Electronic Interference: GPS jamming or spoofing,Anti-jamming measures and safe-mode fallback protocols
+AI-Assisted Medical Diagnostics,Misdiagnosis: lack of current clinical data for war injuries,Human clinical sign-off on all AI diagnoses
+,Unauthorized Data Access: health records used to discriminate,Isolated servers and encryption for medical databases
+,Tech Dependence: hospitals without qualified staff if systems fail,Training programs and contingency plans for manual procedures
+Recommendation Systems,Filter Bubbles: isolating already-traumatized communities,Explainable recommendations that show rationale
+,Predatory Offers: exploiting vulnerable populations economically,Equity policies to prevent predatory targeting
+,Behavioral Manipulation: influencing political or ideological views,Opt-out options for invasive profiling
+Predictive Maintenance,Infrastructure Dependence: unexpected failures if models ignore war damage,Regular manual inspections alongside AI predictions
+,Remote Sabotage: falsified IoT data causing breakdowns,Cryptographic signing and authentication for IoT sensors
+,Unauthorized Access: hackers breaching control networks,Network segmentation and specialized OT firewalls
+Finance & Fraud Detection,False Fraud Alerts: models not trained on post-war economic patterns,Human-in-the-loop appeals for any automated blocks
+,Financial Surveillance Abuse: penalizing certain social groups,Periodic model reviews with updated data
+,Adversarial Attacks: evading anti-money-laundering controls,Robust training techniques to resist adversarial examples
+Robotics & Automation,Cobot Failures: exposed to debris and unforeseen conditions,Realistic environment testing and manual fallback plans
+,Improper Military Use: reconnaissance or explosive robots,International certifications for dual-use robots
+,Mass Unemployment: worsening an already fragile economy,Retraining programs and economic incentives for new roles
+Creative & Generative AI,Propaganda Visuals: deep-fake war scenes to instill fear,Mandatory watermarking and metadata embedding
+,Copyright Violations: misuse of survivors’ original artworks,Open licensing and attribution requirements
+,Social Fragmentation: polarizing content eroding cohesion,Community guidelines and rapid takedown/reporting systems
+Data Analytics & Forecasting,Faulty Predictions: reliance on pre-war data no longer valid,Continuous dataset updates and real-world validation
+,Skewed Policymaking: misuse of models for resource allocation,Stakeholder involvement from local communities
+,Exclusion of Groups: incomplete or biased datasets omitting minorities,Independent audits and transparent methodologies
