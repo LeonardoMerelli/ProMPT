@@ -4,7 +4,9 @@ This repository was developed as part of the course **01HZROV — Crafting Tech:
 
 ## Overview
 
-**ProMPT** is designed to assist users in making well-informed decisions about the implementation of Artificial Intelligence (AI) solutions in **post-conflict regions**. By leveraging large language models (LLMs), the tool helps users assess potential benefits, risks, and mitigation strategies for AI applications in sensitive post-war contexts.
+**ProMPT** is designed to assist users in making well-informed decisions about the implementation of Artificial Intelligence (AI) solutions in **post-conflict regions**. By leveraging large language models (LLMs), the tool helps users assess potential benefits, risks, and mitigation strategies for AI applications in sensitive post-war contexts. 
+
+Overview Video: https://youtu.be/Mgbl7d8YLOg
 
 ---
 
