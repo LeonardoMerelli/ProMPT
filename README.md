@@ -38,6 +38,17 @@ This is the core folder containing the tool itself.
 
 ---
 
+## How to update the database
+
+1. Navigate to the `War Taxonomy/` directory.
+2. Run `extractConflicts.py` to make list of ongoing conflicts up-to-date.
+   - Optional: change filtering settings.
+4. Run `findProblems.py` to update list of post-war related problems.
+   - Input a webpage, for example a Wikipedia-page, from where you want to extract problems.
+   - Optional: change filtering settings.
+  
+---
+
 ## How to Use
 
 1. Navigate to the `ProMPT/` directory.
